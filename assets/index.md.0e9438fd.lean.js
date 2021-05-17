@@ -1,0 +1,1 @@
+import{o as t,c as e}from"./app.e5c2548c.js";const d='{"title":"","description":"index.md -> /","frontmatter":{"title":null,"description":"index.md -> /","date":"2021-05-08"},"relativePath":"index.md","lastUpdated":1621167895948}',i={};i.render=function(d,i,r,n,a,o){return t(),e("div")};export default i;export{d as __pageData};
