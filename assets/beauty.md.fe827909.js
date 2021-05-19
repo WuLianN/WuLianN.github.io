@@ -1,1 +1,0 @@
-import{o as t,c as e}from"./app.16005f7d.js";const a='{"title":"美女","description":"beauty.md -> beauty.html","frontmatter":{"title":"美女","description":"beauty.md -> beauty.html","date":"2021-05-08"},"relativePath":"beauty.md","lastUpdated":1621167910052}',r={};r.render=function(a,r,d,i,o,m){return t(),e("div")};export default r;export{a as __pageData};

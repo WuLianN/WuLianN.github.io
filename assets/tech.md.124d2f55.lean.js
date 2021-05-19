@@ -1,0 +1,1 @@
+import{o as t,c as e}from"./app.8f6c0161.js";const r='{"title":"编程","description":"tech.md -> tech.html","frontmatter":{"title":"编程","description":"tech.md -> tech.html","date":"2021-05-08"},"relativePath":"tech.md","lastUpdated":1621168871018}',c={};c.render=function(r,c,d,a,i,o){return t(),e("div")};export default c;export{r as __pageData};

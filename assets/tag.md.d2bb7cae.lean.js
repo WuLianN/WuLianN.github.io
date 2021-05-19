@@ -1,1 +1,0 @@
-import{o as t,c as a}from"./app.16005f7d.js";const e='{"title":"分类","description":"tag.md -> tag.html","frontmatter":{"title":"分类","description":"tag.md -> tag.html","date":"2021-05-05"},"relativePath":"tag.md","lastUpdated":1621167869766}',r={};r.render=function(e,r,d,i,o,m){return t(),a("div")};export default r;export{e as __pageData};
