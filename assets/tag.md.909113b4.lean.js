@@ -1,1 +1,0 @@
-import{o as t,c as e}from"./app.e442abeb.js";const r='{"title":"","description":"","frontmatter":{},"relativePath":"tag.md","lastUpdated":1621404133902}',a={};a.render=function(r,a,o,d,i,n){return t(),e("div")};export default a;export{r as __pageData};
