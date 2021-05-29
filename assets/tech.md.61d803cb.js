@@ -1,0 +1,1 @@
+import{o as t,c as e}from"./app.b380f5c1.js";const r='{"title":"","description":"","frontmatter":{},"relativePath":"tech.md","lastUpdated":1621404107032}',a={};a.render=function(r,a,o,d,i,n){return t(),e("div")};export default a;export{r as __pageData};
